@@ -11,7 +11,6 @@
 _A page demonstrates basic C# with Asp.Net Core._
 _An Asp.Net Core rewrite of a console app about a car dealership_
 
-                              |                                         |           |           
 ## Setup/Installation Requirements
 * Install dotnet core from https://dotnet.microsoft.com/download
 * Clone/download the repo
